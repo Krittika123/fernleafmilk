@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fernleafmilk/static/css/main.2f08404b.css",
+    "main.js": "/fernleafmilk/static/js/main.95621436.js",
+    "index.html": "/fernleafmilk/index.html",
+    "main.2f08404b.css.map": "/fernleafmilk/static/css/main.2f08404b.css.map",
+    "main.95621436.js.map": "/fernleafmilk/static/js/main.95621436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f08404b.css",
+    "static/js/main.95621436.js"
+  ]
+}
